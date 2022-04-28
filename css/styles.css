@@ -665,7 +665,6 @@ img {
   border-right: 1px solid #eeeeee;
   padding: 20px 24px;
   background-color: var(--bgc-total);
-  position: relative;
 }
 
 .portfolio-title {
