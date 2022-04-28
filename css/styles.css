@@ -77,8 +77,6 @@ img {
 /* ------------HEADER-------------------------------------- */
 
 .header {
-  /* padding-top: 24px;
-  padding-bottom: 25px; */
   border-bottom: 1px solid #ececec;
   height: 80px;
 }
@@ -195,7 +193,6 @@ img {
   position: absolute;
   bottom: 0;
   left: 0;
-  /* bottom: -33px; */
 }
 
 /* ------------HERO-------------------------------------- */
