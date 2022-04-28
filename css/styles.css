@@ -516,7 +516,6 @@ img {
 }
 
 .network-link {
-  display: block;
   width: 44px;
   height: 44px;
   border-radius: 50%;
@@ -667,7 +666,6 @@ img {
   padding: 20px 24px;
   background-color: var(--bgc-total);
   position: relative;
-  z-index: 1;
 }
 
 .portfolio-title {
